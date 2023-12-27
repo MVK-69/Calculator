@@ -87,7 +87,7 @@ public class Calculator implements ActionListener {
         frame.add(textField);
         frame.setVisible(true);
     }
-    public static void main(String[] args) {
+    public static void main(String[] args){
 
         Calculator calc = new Calculator();
 
